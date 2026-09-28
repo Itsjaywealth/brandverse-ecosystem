@@ -1,6 +1,7 @@
 # Vlixxo
 
-**Live:** https://www.vlixxo.com  
+**Live:** https://www.vlixxo.com
+
 **Public repository:** https://github.com/Itsjaywealth/vlixxo.com
 
 Vlixxo is a multi-category ecommerce storefront operated within the BrandVerse ecosystem.
