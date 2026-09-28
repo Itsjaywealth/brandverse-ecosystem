@@ -15,6 +15,15 @@ Production application repositories remain private unless a project has been del
 | **LatitudeWire** | Digital publishing platform covering global affairs, Africa, business, technology and emerging markets. | https://latitudewire.com |
 | **DailyFactView** | Earlier digital publishing project in the BrandVerse founder portfolio. | https://dailyfactview.com |
 
+## Project deep dives
+
+- [BrandVerse Ventures](docs/brandverse-ventures.md) — parent technology company, delivery capability and operating model.
+- [BizFlowNG](docs/bizflowng.md) — business operations software.
+- [TopFlowNG](docs/topflowng.md) — digital-service transaction workflows.
+- [Vlixxo](docs/vlixxo.md) — ecommerce and catalogue operations.
+- [LatitudeWire](docs/latitudewire.md) — digital publishing and content operations.
+- [Ecosystem architecture](docs/ecosystem-architecture.md) — high-level product relationships and shared capability.
+
 ## Selected public repositories
 
 - [Vlixxo](https://github.com/Itsjaywealth/vlixxo.com) — public product documentation and storefront showcase.
