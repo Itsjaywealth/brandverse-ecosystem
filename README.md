@@ -15,6 +15,12 @@ Production application repositories remain private unless a project has been del
 | **LatitudeWire** | Digital publishing platform covering global affairs, Africa, business, technology and emerging markets. | https://latitudewire.com |
 | **DailyFactView** | Earlier digital publishing project in the BrandVerse founder portfolio. | https://dailyfactview.com |
 
+## Selected public repositories
+
+- [Vlixxo](https://github.com/Itsjaywealth/vlixxo.com) — public product documentation and storefront showcase.
+- [Joseph Egbedi](https://github.com/Itsjaywealth) — founder profile and selected-project overview.
+- This repository — BrandVerse ecosystem portfolio and architecture overview.
+
 ## Platform and operating systems
 
 The ecosystem also includes privately maintained systems for CRM, projects, tasks, approvals, people operations, support, finance, recruitment, marketing, sales, knowledge, documents, meetings, analytics, AI/RAG, integrations, security, audit, social publishing, monitoring, backups and QA.
