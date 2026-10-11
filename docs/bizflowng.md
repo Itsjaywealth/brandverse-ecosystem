@@ -12,17 +12,11 @@ The product is designed around a multi-tenant business workspace model so each o
 
 ## Public technology profile
 
-Verified high-level technologies include:
-
-- Next.js
-- React
-- TypeScript
-- PostgreSQL
-- Prisma
-- Railway
-- Paystack integration
+- A typed web application with server-rendered pages
+- A relational database with versioned migrations
+- Online payment collection with signed webhooks and reconciliation
 - Email and workflow integrations
-- Automated testing with Playwright and Node test tooling
+- Automated browser and unit testing
 
 ## Operating focus
 

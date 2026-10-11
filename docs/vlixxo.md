@@ -14,14 +14,10 @@ BrandVerse operates the broader commerce system around catalogue quality, mercha
 
 ## Public technology profile
 
-Verified high-level technologies include:
-
-- React
-- Vite
-- Node.js
-- Express
-- MongoDB with Mongoose
-- Shopify commerce integration
+- A single-page storefront with a fast build pipeline
+- A JavaScript application and API layer
+- A document database for catalogue data
+- A hosted commerce and checkout integration
 
 ## Repository boundary
 
