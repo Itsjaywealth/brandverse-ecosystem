@@ -12,9 +12,9 @@ The project gives BrandVerse direct operating experience in content systems, pub
 
 ## Public technology profile
 
-- A managed publishing platform
+- WordPress
 - Custom theme and publishing configuration
-- Cloud-hosted infrastructure
+- AWS-hosted infrastructure
 - Search and web-performance operations
 
 ## Operating boundary

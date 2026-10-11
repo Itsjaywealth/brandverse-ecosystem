@@ -12,14 +12,17 @@ Supported service categories include airtime and data, utility payments, televis
 
 ## Public technology profile
 
-- A JavaScript application and API layer
-- A relational database with versioned migrations
-- Online payment collection with signed webhooks
+Verified high-level technologies include:
+
+- Node.js
+- Express
+- PostgreSQL
+- Paystack integration
 - External service-provider APIs
-- Managed cloud hosting
-- Caching and coordination for retries and idempotency
-- Error monitoring
-- Automated browser and unit testing
+- Railway
+- Redis-compatible caching/coordination
+- Sentry-compatible monitoring
+- Playwright and Node-based automated tests
 
 ## Reliability model
 
