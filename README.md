@@ -38,7 +38,7 @@ These systems are described at a capability level only. Their production source 
 
 ## Technology
 
-Across the ecosystem: React, Next.js, TypeScript, JavaScript, Node.js, PostgreSQL, Supabase, MongoDB, Railway, Vercel, Cloudflare, Shopify, n8n, APIs, webhooks, RAG/AI workflows, Playwright, CI/CD and monitoring.
+Across the ecosystem: React, Next.js, TypeScript, JavaScript, Node.js, PostgreSQL, document databases, managed cloud hosting, edge delivery, commerce platforms, workflow automation, APIs, webhooks, RAG/AI workflows, Playwright, CI/CD and monitoring.
 
 ## Security and privacy
 

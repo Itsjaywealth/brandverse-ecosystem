@@ -20,8 +20,8 @@ Verified high-level technologies include:
 - Vite
 - Node.js
 - Express
-- MongoDB with Mongoose
-- Shopify commerce integration
+- Document database
+- Commerce platform integration
 
 ## Repository boundary
 

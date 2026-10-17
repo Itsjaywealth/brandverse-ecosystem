@@ -18,9 +18,9 @@ Verified high-level technologies include:
 - React
 - TypeScript
 - PostgreSQL
-- Prisma
-- Railway
-- Paystack integration
+- Type-safe database access layer
+- Managed cloud hosting
+- Online payment integration
 - Email and workflow integrations
 - Automated testing with Playwright and Node test tooling
 

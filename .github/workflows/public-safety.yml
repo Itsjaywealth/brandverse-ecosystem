@@ -38,4 +38,13 @@ jobs:
           test -f SECURITY.md
           grep -Fq 'Production application repositories remain private' README.md
           grep -Fq 'Public GitHub content must never contain' README.md
+          # Public copy stays vendor-neutral: no third-party tool, platform or
+          # provider names in any published document.
+          pattern='(n8n|zapier|openai|anthropic|paystack|flutterwave|monnify|vtpass|resend|railway|cloudflare|vercel|supabase|mongodb|sentry|posthog|shopify|wordpress|amazon web services|datadog)'
+          hits="$(git ls-files '*.md' | xargs grep -inE "\\b${pattern}\\b" || true)"
+          if [ -n "$hits" ]; then
+            echo "Vendor names found in public documents:"
+            printf '%s\n' "$hits"
+            exit 1
+          fi
           echo "Public repository boundary checks passed."
