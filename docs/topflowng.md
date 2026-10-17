@@ -17,11 +17,11 @@ Verified high-level technologies include:
 - Node.js
 - Express
 - PostgreSQL
-- Paystack integration
+- Online payment integration
 - External service-provider APIs
-- Railway
-- Redis-compatible caching/coordination
-- Sentry-compatible monitoring
+- Managed cloud hosting
+- In-memory caching and coordination
+- Error monitoring
 - Playwright and Node-based automated tests
 
 ## Reliability model
