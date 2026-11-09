@@ -13,7 +13,6 @@ Production application repositories remain private unless a project has been del
 | **TopFlowNG** | Nigerian digital-services platform for airtime, data, electricity, cable TV and related transaction workflows. | https://topflowng.com |
 | **Vlixxo** | Ecommerce storefront for product discovery, search, catalogue browsing, cart and checkout. | https://www.vlixxo.com |
 | **LatitudeWire** | Digital publishing platform covering global affairs, Africa, business, technology and emerging markets. | https://latitudewire.com |
-| **DailyFactView** | Earlier digital publishing project in the BrandVerse founder portfolio. | https://dailyfactview.com |
 
 ## Project deep dives
 
